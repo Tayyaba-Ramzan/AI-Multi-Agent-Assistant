@@ -71,8 +71,7 @@ Each agent is modular, extendable, and utilizes **Python decorators** for tool c
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ai-multi-agent-assistant.git
-cd ai-multi-agent-assistant
+https://github.com/Tayyaba-Ramzan/AI-Multi-Agent-Assistant.git
 ```
 
 uv venv  # Optional: if you're using `uv` as a package manager
